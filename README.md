@@ -6,7 +6,7 @@
 
 Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service. It enables single sign-on (SSO) and multi-factor authentication (MFA) to help protect access to thousands of cloud applications and internal resources. Key functionalities include:
 
--  Sign-On (SSO): Allows users to access multiple applications with one set of credentials.
+- Sign-On (SSO): Allows users to access multiple applications with one set of credentials.
 - Multi-Factor Authentication (MFA): Enhances security by requiring additional verification methods to prove identity.
 - Application Management: Centralizes access management for cloud and on-premises applications.
 - Device Management: Works with Microsoft Intune to manage and secure corporate devices.
